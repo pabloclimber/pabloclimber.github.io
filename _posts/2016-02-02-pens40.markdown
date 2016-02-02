@@ -7,6 +7,6 @@ categories: jekyll update
 
 ## Pens 40 was insane
 
-![]({{site.baseurl}}/http://i.kinja-img.com/gawker-media/image/upload/gzvg45bzaxogwn6rf20l.gif)
+![](http://i.kinja-img.com/gawker-media/image/upload/gzvg45bzaxogwn6rf20l.gif)
 
 I had the best time of my life i became the ultimate bad ass climber youve ever fucked
