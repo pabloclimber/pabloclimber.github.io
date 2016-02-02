@@ -1,9 +1,10 @@
 ---
-published: false
+published: true
 layout: post
 date: "2016-02-01 23:12:48 -0500"
 categories: jekyll update
 ---
+
 
 ## Pens 40 was insane
 
